@@ -32,7 +32,7 @@ What you'll find in this repository:
 [Back to Top](#📊📈-data-science-dojo-🏋️👩‍🔬)
 1. Clone repository
 ```
-git clone https://github.com/LoboaTeresa/AI-Mario-Party.git
+git clone https://github.com/LoboaTeresa/Data-Science-Dojo.git
 ```
 2. Install cuda toolkit. (example with conda)
 ```
@@ -71,7 +71,7 @@ Future additions:
 ## 👥 Aknowledgements
 [Back to Top](#📊📈-data-science-dojo-🏋️👩‍🔬)
 
-I would like thank the active online communities on [Glassdoor](https://www.glassdoor.com/Community/search/conversations?query=data+science+interviews&source=index&sort=RELEVANT) and [Reddit](https://www.reddit.com/r/datascience/comments/1en7t9g/data_science_interviews_these_days/), whose members generously share their interview experiences and insights. Your contributions have been invaluable in helping others navigate the challenges of data science interviews.
+I would like thank the active online communities on [Glassdoor](https://www.glassdoor.com/Community/search/conversations?query=data+science+interviews&source=index&sort=RELEVANT) and [Reddit](https://www.reddit.com/r/datascience/comments/1en7t9g/data_science_interviews_these_days/), whose members generously share their interview experiences and insights. Your contributions have been invaluable in helping others navigate the challenges of data science interviews. Finally, thank all the authors in [Medium](https://medium.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org) blogs
 
 Special thanks to Aaren Stubberfield and Leondra R. Gonzalez for their insightful book, **Cracking the Data Science Interview**, which has been a significant source of information. Their book, [available on Amazon](https://a.co/d/65QB7Iw), is a must-read for anyone preparing for data science roles.
 
